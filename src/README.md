@@ -4,6 +4,9 @@
 ![](src/assets/images/home.png)
 ![](src/assets/images/detail_1.png)
 ![](src/assets/images/detail_2.png)
+![](src/assets/icon/home.png)
+![](src/assets/icon/detail_1.png)
+![](src/assets/icon/detail_2.png)
 
 
 ![](docs/tasks.png)

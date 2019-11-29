@@ -6,8 +6,6 @@
 ![](src/assets/images/detail_2.png)
 
 
-![](docs/tasks.png)
-
 ## Getting Started
 
 # The easiest way to get started is to clone the repository:
